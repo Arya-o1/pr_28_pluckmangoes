@@ -77,6 +77,9 @@ function draw() {
  detectCollision(stone,mango3);
  detectCollision(stone,mango4);
  detectCollision(stone,mango5);
+	
+textSize(20);
+text("press 'space' to reattach",300,50);
  
 }
 
